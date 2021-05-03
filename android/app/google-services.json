@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "607936276712",
+    "firebase_url": "https://celulari-9739f.firebaseio.com",
+    "project_id": "celulari-9739f",
+    "storage_bucket": "celulari-9739f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607936276712:android:599a667d37a40f683ec15d",
+        "android_client_info": {
+          "package_name": "com.celulari.celulari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607936276712-87uum4pnsge3d93iprg876ofte3op6ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VOvVkL14NhcHuTOu6X6dbz37eAm3yDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607936276712-87uum4pnsge3d93iprg876ofte3op6ao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607936276712-t9uj5e34pqmjn7513bldag2vn0kc0jh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.celulari.phones"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607936276712:android:1efb0f77daf476033ec15d",
+        "android_client_info": {
+          "package_name": "com.celulari.phones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607936276712-87uum4pnsge3d93iprg876ofte3op6ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VOvVkL14NhcHuTOu6X6dbz37eAm3yDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607936276712-87uum4pnsge3d93iprg876ofte3op6ao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607936276712-t9uj5e34pqmjn7513bldag2vn0kc0jh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.celulari.phones"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
